@@ -15,6 +15,7 @@
 		1095CB7F23865E2400A1FD5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1095CB7D23865E2400A1FD5B /* LaunchScreen.storyboard */; };
 		1095CB8A23865E2400A1FD5B /* Instagram_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1095CB8923865E2400A1FD5B /* Instagram_UITests.swift */; };
 		1095CB9523865E2400A1FD5B /* Instagram_UIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1095CB9423865E2400A1FD5B /* Instagram_UIUITests.swift */; };
+		1095CBA323866BA100A1FD5B /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1095CBA223866BA100A1FD5B /* PostTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1095CB9023865E2400A1FD5B /* Instagram_UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Instagram_UIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1095CB9423865E2400A1FD5B /* Instagram_UIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instagram_UIUITests.swift; sourceTree = "<group>"; };
 		1095CB9623865E2400A1FD5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1095CBA223866BA100A1FD5B /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1095CB7223865E2200A1FD5B /* AppDelegate.swift */,
 				1095CB7423865E2200A1FD5B /* SceneDelegate.swift */,
 				1095CB7623865E2200A1FD5B /* ViewController.swift */,
+				1095CBA223866BA100A1FD5B /* PostTableViewCell.swift */,
 				1095CB7823865E2200A1FD5B /* Main.storyboard */,
 				1095CB7B23865E2400A1FD5B /* Assets.xcassets */,
 				1095CB7D23865E2400A1FD5B /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				1095CB7723865E2200A1FD5B /* ViewController.swift in Sources */,
 				1095CB7323865E2200A1FD5B /* AppDelegate.swift in Sources */,
 				1095CB7523865E2200A1FD5B /* SceneDelegate.swift in Sources */,
+				1095CBA323866BA100A1FD5B /* PostTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
